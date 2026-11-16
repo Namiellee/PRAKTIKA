@@ -1,5 +1,8 @@
 # 🏢 Проект «Умный офис»
 
+<img width="736" height="1104" alt="plan" src="https://github.com/user-attachments/assets/effff472-f5ff-4fed-915d-0cfe7740f2fd" />
+
+
 ## Общая информация
 
 - **Студент:** Губатова Ангелина Группа 54-15
